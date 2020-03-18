@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21fd67c3-c87a-4d28-9776-25353aba59bd" name="Default Changelist" comment="" />
+    <list default="true" id="21fd67c3-c87a-4d28-9776-25353aba59bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TrainMCNN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TrainMCNN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Masfiq\Documents\Thesis\Hajj Project\Shanghaitech MCNN\TrainMCNN\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1XsTy2hA5yFWMQkyFqEPet3bZcV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,7 +60,8 @@
       <workItem from="1581834072859" duration="9244000" />
       <workItem from="1581852905967" duration="924000" />
       <workItem from="1581854520312" duration="36000" />
-      <workItem from="1581854566846" duration="421000" />
+      <workItem from="1581854566846" duration="7719000" />
+      <workItem from="1584514119713" duration="1400000" />
     </task>
     <servers />
   </component>
@@ -56,14 +69,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="475" y="195" key="FileChooserDialogImpl" timestamp="1581854554489">
+    <state x="-1213" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584514408653">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state x="-1213" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1584514408653" />
+    <state x="475" y="195" key="FileChooserDialogImpl" timestamp="1581924071670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="195" key="FileChooserDialogImpl/0.0.1366.728/-1920.-144.1920.1040@0.0.1366.728" timestamp="1581854554489" />
-    <state x="108" y="0" key="SettingsEditor" timestamp="1581834484598">
+    <state x="475" y="195" key="FileChooserDialogImpl/0.0.1366.728/-1920.-144.1920.1040@0.0.1366.728" timestamp="1581924071670" />
+    <state x="108" y="0" key="SettingsEditor" timestamp="1581855097311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="108" y="0" key="SettingsEditor/0.0.1366.728/-1920.-144.1920.1040@0.0.1366.728" timestamp="1581834484598" />
+    <state x="108" y="0" key="SettingsEditor/0.0.1366.728/-1920.-144.1920.1040@0.0.1366.728" timestamp="1581855097311" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581852905987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
